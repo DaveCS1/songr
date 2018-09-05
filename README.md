@@ -1,6 +1,6 @@
 # Songr
 
-**TODO: Add description**
+Some months ago I implemented a web crawler in Go that fetches video game albums from [Video Game Music](https://downloads.khinsider.com/). So I decided to rewrite the app using the Elixir, trying to take advantages of a functional programming language.
 
 ## Installation
 
